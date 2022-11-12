@@ -1,0 +1,15 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="icons">
+        <file alias="circle.png">icons/circle.png</file>
+        <file alias="clear-mop.png">icons/clear-mop.png</file>
+        <file alias="eraser.png">icons/eraser.png</file>
+        <file alias="line.png">icons/line.png</file>
+        <file alias="paint-brush.png">icons/paint-brush.png</file>
+        <file alias="paint-can.ico">icons/paint-can.ico</file>
+        <file alias="paint-can.png">icons/paint-can.png</file>
+        <file alias="pencil.png">icons/pencil.png</file>
+        <file alias="pipette.png">icons/pipette.png</file>
+        <file alias="rectangle.png">icons/rectangle.png</file>
+    </qresource>
+</RCC>
